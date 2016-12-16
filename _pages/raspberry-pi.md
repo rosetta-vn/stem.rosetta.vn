@@ -8,4 +8,4 @@ layout: page
 permalink: https://rosetta.vn/stem/raspberry-pi/
 published: true
 ---
-&lt;iframe src="https://stem.rosetta.vn/raspberry-pi.html"&gt;&lt;/iframe&gt;
+[iframe src="http://stem.rosetta.vn/raspberry-pi.html"]
