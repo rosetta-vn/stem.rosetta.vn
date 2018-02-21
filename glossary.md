@@ -1,1 +1,1 @@
-Glossaries are moved to http://github.com/thuatngu/STEM
+Glossaries were moved to http://github.com/thuatngu/STEM
